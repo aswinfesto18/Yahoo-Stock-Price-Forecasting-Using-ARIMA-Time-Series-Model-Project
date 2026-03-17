@@ -3,8 +3,5 @@ pandas
 numpy
 matplotlib
 seaborn
-scikit-learn
 statsmodels
-imblearn
-joblib
 openpyxl
